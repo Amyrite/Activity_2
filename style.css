@@ -175,3 +175,7 @@ body {
     font-weight: 800;
     list-style-type: disc;
 }
+
+footer {
+    text-align: center;
+}
